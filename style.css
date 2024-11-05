@@ -169,8 +169,20 @@ td:hover {
     width: 50%;
     text-align: center;
 }
-
-
-
+.e_section{
+    display: flex;
+    text-align: center;
+}
+.e_center{
+    width: 50%;
+}
+.e_center img{
+    width: 260px;
+    margin-top: 20px;
+}
+.details{
+    margin-top: 30px;
+    color: rgb(235, 54, 54);
+}
 
 /*    Electronics part end here!    */
