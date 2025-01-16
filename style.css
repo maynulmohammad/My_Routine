@@ -169,51 +169,59 @@ td:hover {
     width: 50%;
     text-align: center;
 }
-.e_section{
+
+.e_section {
     display: flex;
     text-align: center;
 }
-.e_center{
+
+.e_center {
     width: 50%;
 }
-.e_center img{
+
+.e_center img {
     width: 260px;
     margin-top: 20px;
 }
-.details{
+
+.details {
     margin-top: 30px;
     color: rgb(235, 54, 54);
 }
 
 
-.div_electronics{
+.div_electronics {
     display: flex;
 }
-.div_electronics img{
+
+.div_electronics img {
     width: 250px;
     height: 220px;
 }
 
-.div_electronics_1{
+.div_electronics_1 {
     width: 50%;
     border: 1px solid green;
-    padding:30px ;
+    padding: 30px;
     color: rgb(6, 80, 61);
     text-align: center;
     margin: 50px;
 }
-.div_electronics_car img{
+
+.div_electronics_car img {
     width: 360px;
     height: 220px;
 }
-.div_electronics_2{
+
+.div_electronics_2 {
     width: 99%;
     border: 1px solid green;
     color: rgb(6, 80, 61);
     text-align: center;
-    padding:20px ;
+    padding: 20px;
 }
-button{
+
+button {
     background-color: yellowgreen;
     color: red;
     font-weight: 600;
@@ -221,16 +229,22 @@ button{
     padding: 4px;
     border-radius: 3px;
 }
-.div_electronics_1 a{
+
+.div_electronics_1 a {
     text-decoration: none;
+    color: red;
 }
-.div_electronics_2 a{
-text-decoration: none;
+
+.div_electronics_2 a {
+    text-decoration: none;
+    color: red;
 }
-.div_electronics_1 button{
-margin-top: 7px;
+
+.div_electronics_1 button {
+    margin-top: 7px;
 }
-.div_electronics_2 button{
+
+.div_electronics_2 button {
     margin-top: 7px;
 }
 
