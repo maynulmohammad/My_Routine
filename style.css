@@ -185,4 +185,34 @@ td:hover {
     color: rgb(235, 54, 54);
 }
 
+
+.div_electronics{
+    display: flex;
+}
+.div_electronics img{
+    width: 250px;
+    height: 220px;
+}
+
+.div_electronics_1{
+    width: 50%;
+    border: 1px solid green;
+    padding:30px ;
+    color: rgb(6, 80, 61);
+    text-align: center;
+}
+.div_electronics_car img{
+    width: 350px;
+    height: 220px;
+}
+.div_electronics_2{
+    width: 50%;
+    border: 1px solid green;
+    color: rgb(6, 80, 61);
+    text-align: center;
+    padding:30px ;
+}
+
+
+
 /*    Electronics part end here!    */
