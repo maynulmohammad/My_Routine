@@ -200,19 +200,39 @@ td:hover {
     padding:30px ;
     color: rgb(6, 80, 61);
     text-align: center;
+    margin: 50px;
 }
 .div_electronics_car img{
-    width: 350px;
+    width: 360px;
     height: 220px;
 }
 .div_electronics_2{
-    width: 50%;
+    width: 99%;
     border: 1px solid green;
     color: rgb(6, 80, 61);
     text-align: center;
-    padding:30px ;
+    padding:20px ;
 }
-
+button{
+    background-color: yellowgreen;
+    color: red;
+    font-weight: 600;
+    border: none;
+    padding: 4px;
+    border-radius: 3px;
+}
+.div_electronics_1 a{
+    text-decoration: none;
+}
+.div_electronics_2 a{
+text-decoration: none;
+}
+.div_electronics_1 button{
+margin-top: 7px;
+}
+.div_electronics_2 button{
+    margin-top: 7px;
+}
 
 
 /*    Electronics part end here!    */
